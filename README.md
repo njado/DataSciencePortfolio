@@ -1,2 +1,5 @@
 # DataSciencePortfolio
-This repository contain projects i have worked on and serve as portfolio to showcase my Data Science skills
+This repository contains projects I have worked on and serves as a portfolio to showcase my Data Science skills
+
+## Project 1
+Global temperature prediction in 2050 and 2050 using SARIMA and Facebook Prophet models
